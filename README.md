@@ -55,18 +55,7 @@ IIT collaborates with the University of Westminster, UK <br><br>
 </p>
 
 
-## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThrishaliN&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ThrishaliN&theme=blue-green&hide_border=false"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThrishaliN&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-</div>
 
 
 ### ✍️ Random Dev Quote
