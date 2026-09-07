@@ -9,8 +9,7 @@ IIT collaborates with the University of Westminster, UK <br><br>
 
 
 <table align="center">
-  <tr><td>🌱 I’m learning Java, RESTful APIs (JAX-RS), and backend development.</td></tr>
-  <tr><td>🔭 I’m currently working on Bookstore JAX-RS API</td></tr>
+  
   <tr><td>📫 How to reach me: thrishaligamage@gmail.com</td></tr>
   <tr><td>🌙 Fun Fact: I do my best coding when the world is asleep.</td></tr>
 </table>
